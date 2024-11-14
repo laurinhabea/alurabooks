@@ -6,4 +6,6 @@
     background-repeat: no-repeat;
     background-position: center;
     background-color: var(--branco);
+     display: flex;
+    justify-content: space-between;
 }
